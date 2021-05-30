@@ -1,4 +1,4 @@
-# Introduction to HTML5 in the University of Michugan
+# Introduction to HTML5 in the University of Michigan
 
 My final project of this online course was to create a web page that matches the example given here.  My page must match it exactly other than the title and any parts that have been highlighted in yellow.  
 
